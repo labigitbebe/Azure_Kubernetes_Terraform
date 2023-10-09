@@ -1,0 +1,6 @@
+resource_group_name = "bkyaksrg"
+locations           = "West US"
+aks_cluster_name    = "bkyakscl"
+aks_node_count      = "1"
+cluster_name        = "askclusterbky"
+acr_name            = "bkyacr"
